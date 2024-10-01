@@ -24,12 +24,12 @@ Ensure the configuration settings are correct. These are located in -
 - Server_DiscordCore.lua
   - local pythonfile = "$HOME/server/bin/lua_scripts/elunamod-DiscordCore/DiscordCore.py" (Ensure this path is set to your python file. This is NOT a valid default path.)
  
-  # Planned Features & Milestones
+# Planned Features & Milestones
 
-  Currently this bot is only capable of sending a message to a channel when a user logs into your game server.
+Currently this bot is only capable of sending a message to a channel when a user logs into your game server.
 
-  The plan is to add things such as API support for custom messages to custom channels, experimental features such as proximity voice chat, and authentication features such as the previously released Discord User Authentication module, will be solely delegated to this one repository and all these features will be toggleable.
+The plan is to add things such as API support for custom messages to custom channels, experimental features such as proximity voice chat, and authentication features such as the previously released Discord User Authentication module, will be solely delegated to this one repository and all these features will be toggleable.
 
-  # License
+# License
 
-  Currently there is no license. Just please credit if you used or learned from this repository in any way. Thank you!
+Currently there is no license. Just please credit if you used or learned from this repository in any way. Thank you!
